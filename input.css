@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.user-txt{
+    display: none;
+}
+.active-text{
+    display: block;
+}
+ .active-pic{
+    border: 2px solid rgb(217, 34, 47);
+    
+}
